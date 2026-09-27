@@ -1,0 +1,1 @@
+# day21-ai-quality-thinking
